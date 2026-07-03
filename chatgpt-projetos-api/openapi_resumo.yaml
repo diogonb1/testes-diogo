@@ -1,0 +1,23 @@
+openapi: 3.1.0
+info:
+  title: ChatGPT Projetos API
+  version: 0.1.0
+paths:
+  /classificar:
+    post:
+      summary: Classifica um chat por projeto+entrega
+  /classificar/lote:
+    post:
+      summary: Classifica lote CSV ou conversations.json
+  /estrutura:
+    post:
+      summary: Gera árvore de pastas do sistema
+  /exportar/pacote:
+    post:
+      summary: Retorna pacote ZIP com pastas e índice
+  /github/issues:
+    post:
+      summary: Cria issue no GitHub usando GITHUB_TOKEN
+  /github/files:
+    post:
+      summary: Cria ou atualiza arquivo no GitHub usando GITHUB_TOKEN

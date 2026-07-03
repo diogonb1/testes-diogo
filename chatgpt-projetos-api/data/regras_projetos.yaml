@@ -1,0 +1,203 @@
+versao: Rev00_2026-07-03
+raiz:
+  - 00_CAIXA_DE_ENTRADA_CHATGPT
+  - 01_TRABALHO_BUIATTE
+  - 02_MUSICA_AUDIO_BANDA
+  - 03_CONSTRUCAO_DE_INSTRUMENTOS
+  - 04_CARREIRA_ESTUDOS
+  - 05_BIBLIOTECA_TECNICA_E_FONTES
+  - 06_MODELOS_PADROES_PROMPTS
+  - 07_PESSOAL_FINANCAS_JURIDICO
+  - 08_TECNOLOGIA_3D_JOGOS_DEV
+  - 99_ARQUIVO_MORTO
+projetos:
+  BUI-001:
+    pasta: 01_TRABALHO_BUIATTE/BUI-001_SGQ_SGI_ISO_SASSMAQ
+    nome: SGQ, SGI, ISO e SASSMAQ
+    prioridade: Alta
+    palavras: [iso, sgq, sgi, sassmaq, procedimento, pop, auditoria interna, ouvidoria, reclamacao, bpmn, processo]
+  BUI-002:
+    pasta: 01_TRABALHO_BUIATTE/BUI-002_JDE_KDP_SAFEFOOD_EXH002
+    nome: JDE/KDP Safefood EXH-002
+    prioridade: Alta
+    palavras: [jde, kdp, safefood, exh-002, exh002, sgsa, fsms, caucaia, benevides, l262, qualidade alimentos]
+  BUI-003:
+    pasta: 01_TRABALHO_BUIATTE/BUI-003_CHEP_PALETES_GOVERNANCA
+    nome: CHEP, paletes e governança
+    prioridade: Alta
+    palavras: [chep, mychep, palete, paletes, inventario, distribuidor, governanca remota]
+  BUI-004:
+    pasta: 01_TRABALHO_BUIATTE/BUI-004_ALVARAS_LICENCAS_AVCB_SANITARIO_AMBIENTAL
+    nome: Alvarás, licenças, AVCB e sanitário
+    prioridade: Alta
+    palavras: [alvara, alvará, avcb, sanitario, sanitário, ambiental, licença, licenca, funcionamento, rpca, geo, caucaia, extrema, protocolo]
+  BUI-005:
+    pasta: 01_TRABALHO_BUIATTE/BUI-005_SST_PGR_PCMSO_CIPA_BRIGADA_TST
+    nome: SST, PGR, PCMSO, CIPA, brigada e TST
+    prioridade: Alta
+    palavras: [sst, pgr, pcmso, cipa, brigada, tst, nr, seguranca do trabalho, segurança do trabalho, insalubridade, ppp]
+  BUI-006:
+    pasta: 01_TRABALHO_BUIATTE/BUI-006_LOGISTICA_FROTA_CHECKLISTS_OPERACAO
+    nome: Logística, frota, checklists e operação
+    prioridade: Media
+    palavras: [logistica, logística, frota, checklist, operacao, operação, carreta, cavalo, tacografo, tacógrafo, autotrac]
+  BUI-007:
+    pasta: 01_TRABALHO_BUIATTE/BUI-007_CLIENTES_AUDITORIAS_REQUISITOS
+    nome: Clientes, auditorias e requisitos
+    prioridade: Media
+    palavras: [cliente, clientes, requisito, requisitos, auditoria cliente, auditorias cliente, fornecedor]
+  BUI-008:
+    pasta: 01_TRABALHO_BUIATTE/BUI-008_INDICADORES_DASHBOARDS_PLANOS_ACAO
+    nome: Indicadores, dashboards e planos de ação
+    prioridade: Alta
+    palavras: [dashboard, indicador, indicadores, planilha, excel, 5w2h, plano de ação, plano acao, cronograma, proc, soma, se]
+  BUI-009:
+    pasta: 01_TRABALHO_BUIATTE/BUI-009_RH_TREINAMENTOS_COMPETENCIAS
+    nome: RH, treinamentos e competências
+    prioridade: Media
+    palavras: [treinamento, competência, competencias, rh, integração, integracao]
+  BUI-010:
+    pasta: 01_TRABALHO_BUIATTE/BUI-010_COMUNICACOES_EMAILS_ATAS_COBRANCAS
+    nome: Comunicações, e-mails, atas e cobranças
+    prioridade: Media
+    palavras: [email, e-mail, ata, cobrança, cobranca, whatsapp, comunicado, resposta]
+  BUI-011:
+    pasta: 01_TRABALHO_BUIATTE/BUI-011_LEGISLACAO_JURISPRUDENCIA_CONFORMIDADE
+    nome: Legislação, jurisprudência e conformidade
+    prioridade: Media
+    palavras: [legislação, legislacao, jurisprudencia, jurisprudência, lei, decreto, norma, conformidade]
+  MUS-001:
+    pasta: 02_MUSICA_AUDIO_BANDA/MUS-001_BANDA_SHOWS_EVENTOS_PREFEITURAS
+    nome: Banda, shows, eventos e prefeituras
+    prioridade: Media
+    palavras: [show, banda, prefeitura, festa, casamento, evento, palco]
+  MUS-002:
+    pasta: 02_MUSICA_AUDIO_BANDA/MUS-002_REPERTORIO_PAGODE_SAMBA_MPB
+    nome: Repertório, pagode, samba e MPB
+    prioridade: Media
+    palavras: [repertorio, repertório, pagode, samba, mpb, musica popular, música popular]
+  MUS-003:
+    pasta: 02_MUSICA_AUDIO_BANDA/MUS-003_ESTUDO_HARMONIA_MELODIA_VOZ
+    nome: Estudo, harmonia, melodia e voz
+    prioridade: Media
+    palavras: [harmonia, melodia, voz, acorde, escala, intervalo, songbook]
+  MUS-004:
+    pasta: 02_MUSICA_AUDIO_BANDA/MUS-004_AUDIO_PA_CAIXAS_MICROFONES_MESA
+    nome: Áudio, PA, caixas, microfones e mesa
+    prioridade: Media
+    palavras: [pa, caixa de som, yamaha, tensor, hh, sub, surdo, cavaco, pandeiro, tantã, microfone, mesa, dbr]
+  MUS-005:
+    pasta: 02_MUSICA_AUDIO_BANDA/MUS-005_MIX_MASTER_REAPER_DAW
+    nome: Mix, master, Reaper e DAW
+    prioridade: Media
+    palavras: [mix, master, reaper, daw, lufs, gravação, gravacao]
+  MUS-006:
+    pasta: 02_MUSICA_AUDIO_BANDA/MUS-006_PEDALEIRAS_TIMBRES_POD_HD500
+    nome: Pedaleiras, timbres e POD HD500
+    prioridade: Media
+    palavras: [pod hd500, pedaleira, timbre, ir, line 6, preset, guitarra em linha]
+  MUS-007:
+    pasta: 02_MUSICA_AUDIO_BANDA/MUS-007_CNPJ_CNAE_EDITAIS_CONTRATOS
+    nome: CNPJ, CNAE, editais e contratos musicais
+    prioridade: Media
+    palavras: [cnpj, cnae, edital, contrato, me, mei, banda]
+  MUS-008:
+    pasta: 02_MUSICA_AUDIO_BANDA/MUS-008_MATERIAIS_DIVULGACAO_RELEASE_PORTFOLIO
+    nome: Divulgação, release e portfólio
+    prioridade: Baixa
+    palavras: [release, portfolio, portfólio, divulgação, divulgacao, arte]
+  LUT-001:
+    pasta: 03_CONSTRUCAO_DE_INSTRUMENTOS/LUT-001_GIANNINI_MASTERSONIC_2004
+    nome: Giannini MasterSonic 2004
+    prioridade: Media
+    palavras: [giannini, gianini, mastersonic, master sonic, escudo, hardware preto, corpo]
+  LUT-002:
+    pasta: 03_CONSTRUCAO_DE_INSTRUMENTOS/LUT-002_ELETRICA_HSS_SUPERSWITCH_IBZ_DMX9
+    nome: Elétrica HSS, superswitch e IBZ DMX9
+    prioridade: Media
+    palavras: [hss, superswitch, ibz, dmx9, chave 5, oak, capacitor, resistor, wiring, ligação, ligacao]
+  LUT-003:
+    pasta: 03_CONSTRUCAO_DE_INSTRUMENTOS/LUT-003_CAPTADORES_HUMBUCKER_SINGLE_COIL_PIEZO
+    nome: Captadores humbucker, single coil e piezo
+    prioridade: Media
+    palavras: [captador, humbucker, single coil, seymour, duncan, gfs, piezo, polaridade, fase]
+  LUT-004:
+    pasta: 03_CONSTRUCAO_DE_INSTRUMENTOS/LUT-004_PREAMPS_FISHMAN_BBAND_RMC_LRBAGGS
+    nome: Preamps Fishman, B-Band, RMC e LR Baggs
+    prioridade: Media
+    palavras: [fishman, b-band, b band, rmc, lr baggs, preamp, polydrive, piezo individual]
+  LUT-005:
+    pasta: 03_CONSTRUCAO_DE_INSTRUMENTOS/LUT-005_HARDWARE_PONTE_TARRACHAS_NUT_TRASTES
+    nome: Hardware, ponte, tarrachas, nut e trastes
+    prioridade: Media
+    palavras: [ponte, tarraxa, tarrachas, nut, traste, jescar, schaller, floyd, grover, wilkinson]
+  LUT-006:
+    pasta: 03_CONSTRUCAO_DE_INSTRUMENTOS/LUT-006_ESCUDOS_CORPO_GABARITOS_MEDIDAS
+    nome: Escudos, corpo, gabaritos e medidas
+    prioridade: Media
+    palavras: [gabarito, strat body, corpo strat, impressão a4, impressao a4, medida, molde, corte]
+  LUT-007:
+    pasta: 03_CONSTRUCAO_DE_INSTRUMENTOS/LUT-007_ACABAMENTO_CORES_DESIGN_VISUAL
+    nome: Acabamento, cores e design visual
+    prioridade: Baixa
+    palavras: [acabamento, cor, cores, visual, design, pintura, fumê, fume]
+  LUT-008:
+    pasta: 03_CONSTRUCAO_DE_INSTRUMENTOS/LUT-008_DESENHOS_DIAGRAMAS_ESQUEMAS_DIY
+    nome: Desenhos, diagramas e esquemas DIY
+    prioridade: Media
+    palavras: [diagrama, diy, solda, aterramento, potenciometro, potenciômetro, jack, ligação real]
+  CAR-001:
+    pasta: 04_CARREIRA_ESTUDOS/CAR-001_CURRICULOS_VAGAS_QUALIDADE
+    nome: Currículos e vagas de Qualidade
+    prioridade: Media
+    palavras: [curriculo, currículo, vaga, vagas, qualidade, sgq, palavras-chave, recrutamento]
+  CAR-002:
+    pasta: 04_CARREIRA_ESTUDOS/CAR-002_PROCESSOS_SELETIVOS_RESPOSTAS_FORMULARIOS
+    nome: Processos seletivos, respostas e formulários
+    prioridade: Media
+    palavras: [processo seletivo, formulario, formulário, resposta humanizada, proposta pj, contratação]
+  CAR-003:
+    pasta: 04_CARREIRA_ESTUDOS/CAR-003_ENGENHARIA_PRODUCAO_UNIUBE
+    nome: Engenharia de Produção Uniube
+    prioridade: Media
+    palavras: [engenharia de produção, engenharia producao, uniube, disciplina]
+  CAR-004:
+    pasta: 04_CARREIRA_ESTUDOS/CAR-004_CALCULO_RELATORIOS_TRABALHOS
+    nome: Cálculo, relatórios e trabalhos acadêmicos
+    prioridade: Media
+    palavras: [calculo, cálculo, integral, lebesgue, relatorio, relatório, trabalho acadêmico, questão]
+  PES-001:
+    pasta: 07_PESSOAL_FINANCAS_JURIDICO/PES-001_FAMILIA_EVENTOS_CONVITES
+    nome: Família, eventos e convites
+    prioridade: Baixa
+    palavras: [convite, aniversário, aniversario, luiz, família, familia]
+  PES-002:
+    pasta: 07_PESSOAL_FINANCAS_JURIDICO/PES-002_CARRO_FINANCIAMENTO_SEMINOVOS
+    nome: Carro, financiamento e seminovos
+    prioridade: Media
+    palavras: [carro, seminovo, financiamento, consorcio, consórcio, gol, veículo, veiculo, cambio automatico]
+  PES-003:
+    pasta: 07_PESSOAL_FINANCAS_JURIDICO/PES-003_DIREITO_FAMILIA_IMOVEL
+    nome: Direito de família e imóvel
+    prioridade: Media
+    palavras: [direito de família, união estável, uniao estavel, imóvel, imovel, notificação extrajudicial]
+  TEC-001:
+    pasta: 08_TECNOLOGIA_3D_JOGOS_DEV/TEC-001_BLENDER_MODELOS_3D_MOTORES
+    nome: Blender, modelos 3D e motores
+    prioridade: Baixa
+    palavras: [blender, modelo 3d, gm350, chevrolet, crate engine]
+  TEC-002:
+    pasta: 08_TECNOLOGIA_3D_JOGOS_DEV/TEC-002_SLRR_JAVA_MODDING_CARROS_MOTORES
+    nome: SLRR, Java, modding, carros e motores
+    prioridade: Baixa
+    palavras: [java, slrr, street legal, rpk, cfg, viper, stram, textura, motor]
+  ADM-001:
+    pasta: 06_MODELOS_PADROES_PROMPTS/ADM-001_ORGANIZACAO_CHATGPT_PROJETOS
+    nome: Organização ChatGPT, PARA/GTD/WBS
+    prioridade: Alta
+    palavras: [organização, organizacao, chatgpt, projetos, para, gtd, wbs, eap, produtividade]
+  ADM-002:
+    pasta: 06_MODELOS_PADROES_PROMPTS/ADM-002_RESUMO_DIARIO_ROTINAS
+    nome: Resumo diário e rotinas
+    prioridade: Media
+    palavras: [resumo diário, resumo diario, noticias, notícias, rotina]
